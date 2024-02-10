@@ -1,0 +1,1 @@
+Meu primeiro portfólio, desenvolvido com HTML e CSS, apresenta uma coleção de projetos que demonstram minha habilidade em criar interfaces web intuitivas e visualmente atraentes. Inclui um menu responsivo para uma experiência de usuário fluida em dispositivos móveis. Estou comprometido em aprender e crescer como desenvolvedor web.
