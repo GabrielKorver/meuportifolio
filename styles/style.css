@@ -22,7 +22,10 @@ body {
 }
 
 .cabecalho {
-    padding: 2% 0% 0% 55%;
+    width: 100%;
+    padding: 2% 0%;
+    display: flex;
+    justify-content: center;
 }
 
 .cabecalho__menu {
@@ -134,14 +137,15 @@ body {
 }
 
 @media (max-width:1366px) {
-    
+
     .cabecalho {
-        padding: 6%;
         justify-content: center;
+        text-align: center;
     }
 
     .cabecalho__menu {
         justify-content: center;
+
     }
 
     .apresentacao {
